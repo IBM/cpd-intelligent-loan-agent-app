@@ -1,10 +1,11 @@
-# Create a web based intelligent bank loan application for a loan agent. 
+# Create a web based intelligent bank loan application for a loan agent
 
-In this code pattern we will create a web based bank loan application. In a typical bank loan department,  the loan agent will recieve an application from a customer. This loan agent will then consider several factors in order to come to a conclusion of whether loan can be approved or rejected. To ease this decision making process, we build a web based application that the loan agent can use to make these decisions.  This will enable the loan agent to analyze the risk involved while trying to approve loan. The web application is built using Python Flask. 
+In this code pattern we will create a web based bank loan application. In a typical bank loan department,  the loan agent will recieve an application from a customer. This loan agent will then consider several factors in order to come to a conclusion of whether loan can be approved or rejected. To ease this decision making process, we build a web based application that the loan agent can use to make these decisions.  This will enable the loan agent to analyze the risk involved while trying to approve loan. The web application is built using Python Flask.
 
 When the reader has completed this code pattern they will understand how to:
 
-* Make a Watson Machine Learning REST API call
+* Deploy a Python based web application
+* Make a Watson Machine Learning REST API call through web application
 * Send and receive messages to a machine learning model deployed using Watson Machine Learning using REST APIs
 * Integrate Cloud Pak For Data's Watson Machine Learning services in a web app
 
@@ -13,10 +14,10 @@ When the reader has completed this code pattern they will understand how to:
 ## Flow
 
 1. Application developer builds a python based app and deploys it.  
-2. Loan Customer approaches the loan agent for a loan through the bank. 
-3. Loan agent submits loan details through the web based application and gets back risk analysis. 
+2. Loan Customer approaches the loan agent for a loan through the bank.
+3. Loan agent submits loan details through the web based application and gets back risk analysis.
 4. Based on the risk analysis results, the loan agent makes a decision about loan application.
-5. This result is relayed back to the customer by the loan agent. 
+5. This result is relayed back to the customer by the loan agent.
 
 ## Included components
 
