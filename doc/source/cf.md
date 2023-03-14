@@ -1,6 +1,6 @@
-# Run on IBM Cloud with Cloud Foundry
+# Run on IBM Cloud
 
-This document shows how to deploy the server using Cloud Foundry on IBM Cloud.
+This document shows how to deploy the server on IBM Cloud.
 
 [![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button_x2.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/IBM/cpd-intelligent-loan-agent-app.git)
 
